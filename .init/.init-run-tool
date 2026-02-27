@@ -1,0 +1,4 @@
+{
+    "command": "npm run dev -- -p <port> -H <host>",
+    "working_directory": "/tmp/kavia/workspace/code-generation/responsive-e-commerce-platform-1493-1507/ecommerce_frontend"
+}
